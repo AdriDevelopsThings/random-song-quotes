@@ -1,6 +1,7 @@
 FROM node:lts
 WORKDIR /app
 ENV NODE_ENV=production
+ENV GENERATE_SOURCEMAP=false
 
 RUN npm install -g serve
 
