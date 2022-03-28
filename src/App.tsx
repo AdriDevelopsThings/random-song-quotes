@@ -21,11 +21,15 @@ const Quote = styled.h1`
   margin: 0.5rem;
   font-size: 2.5em;
 `
+const SpotifyLink = styled.a`
+  justify-content: center;
+  display: flex;
+`
 
 const SpotifyIcon = styled.img`
   position: absolute;
   bottom: 5%;
-  width: 4%;
+  width: 10vw;
 `
 
 const LanguageSelector = styled.div`
@@ -44,6 +48,7 @@ const Languages = styled.ul`
 `
 
 const Language = styled.li`
+  font-size: 1.25em;
   list-style-type: none;
   padding: 0;
   padding-right: 1rem;
@@ -84,12 +89,12 @@ function App() {
           { languages.map((lang, index) => <Language style={language === lang.code ? { textDecoration: 'underline' } : {}} key={index} onClick={() => {
             setLanguge(lang.code)
             sessionStorage.setItem('language', lang.code)
-            }}>{lang.name}</Language>)}
+            }}><p>{lang.name}</p></Language>)}
         </Languages>
       </LanguageSelector>
       <AppStyle className='app'>
         { quote.quote.split('\n').map((quoteStr, index) => <Quote key={index}>{ quoteStr }</Quote>)}
-        <a href={`https://open.spotify.com/track/${quote.trackId}`} target='_blank' rel='noreferrer'><SpotifyIcon src={spotifyIcon} alt='spotify icon'/></a>
+        <SpotifyLink href={`https://open.spotify.com/track/${quote.trackId}`} target='_blank' rel='noreferrer'><SpotifyIcon src={spotifyIcon} alt='spotify icon'/></SpotifyLink>
       </AppStyle>
     </>
   );
