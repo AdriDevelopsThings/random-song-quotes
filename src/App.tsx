@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import languages from './languages';
 import quotes from './quotes';
 import spotifyIcon from './spotify.svg';
+import * as ackee from 'ackee-tracker'
 
 
 const AppStyle = styled.div`
@@ -79,6 +80,9 @@ const getQuoteById = (trackId: string) => {
 }
 
 function App() {
+  if (process.env.NEXT_PUBLIC_ACKEE_UUID) {
+    ackee.create('https://ackee.adridoesthings.com', { ignoreLocalhost: true, ignoreOwnVisits: false, detailed: true }).record(process.env.NEXT_PUBLIC_ACKEE_UUID)
+  }
   const [ language, setLanguge ] = useState(sessionStorage.getItem('language') || '.*')
 
   let quote = null
