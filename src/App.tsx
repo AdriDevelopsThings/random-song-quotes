@@ -81,7 +81,7 @@ const getQuoteById = (trackId: string) => {
 
 function App() {
   if (process.env.NEXT_PUBLIC_ACKEE_UUID) {
-    ackee.create('https://ackee.adridoesthings.com', { ignoreLocalhost: true, ignoreOwnVisits: false, detailed: true }).record(process.env.NEXT_PUBLIC_ACKEE_UUID)
+    ackee.create('https://ackee.adridoesthings.com', { ignoreLocalhost: true, ignoreOwnVisits: false, detailed: true }).record('f9cadca5-2fd4-4c3c-b0a6-d5310d6bada3')
   }
   const [ language, setLanguge ] = useState(sessionStorage.getItem('language') || '.*')
 
