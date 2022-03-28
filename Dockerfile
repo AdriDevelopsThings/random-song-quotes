@@ -11,7 +11,6 @@ RUN yarn install --production=false
 COPY ./public ./public
 COPY ./src ./src
 COPY tsconfig.json .
-
 RUN yarn run build
 
 EXPOSE 80
