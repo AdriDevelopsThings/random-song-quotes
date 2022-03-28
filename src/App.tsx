@@ -14,22 +14,31 @@ const AppStyle = styled.div`
   width: 100vw;
   padding: 1rem;
 `
+const Quote = styled.div`
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 2rem;
+  box-sizing: border-box;
+`
 
-const Quote = styled.h1`
+const QuoteLine = styled.h1`
   width: 75vw;
   text-align: center;
   margin: 0.5rem;
-  font-size: 2.5em;
+  font-size: 2.25em;
 `
 const SpotifyLink = styled.a`
-  justify-content: center;
   display: flex;
+  justify-content: center;
+  margin: 3rem;
 `
 
 const SpotifyIcon = styled.img`
-  position: absolute;
-  bottom: 5%;
-  width: 10vw;
+  max-width: 50%;
+  width: 30%;
 `
 
 const LanguageSelector = styled.div`
@@ -93,7 +102,7 @@ function App() {
         </Languages>
       </LanguageSelector>
       <AppStyle className='app'>
-        { quote.quote.split('\n').map((quoteStr, index) => <Quote key={index}>{ quoteStr }</Quote>)}
+        <Quote>{ quote.quote.split('\n').map((quoteStr, index) => <QuoteLine key={index}>{ quoteStr }</QuoteLine>)}</Quote>
         <SpotifyLink href={`https://open.spotify.com/track/${quote.trackId}`} target='_blank' rel='noreferrer'><SpotifyIcon src={spotifyIcon} alt='spotify icon'/></SpotifyLink>
       </AppStyle>
     </>
