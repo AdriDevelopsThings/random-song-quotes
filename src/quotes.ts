@@ -49,6 +49,19 @@ const quotes = [
             "Und so deutsch wie der Sascha,\n" +
             "Wird Abdul nimmer mehr",
         "lang": "de"
+    },
+    {
+        "trackId": "32ZGLV7Nsy9PQyZ7LNgDkB",
+        "quote": "Ich bin schwul, ich bin jüdisch und ein Kommunist dazu\n" +
+            "Ich bin schwarz und behindert, doch genauso Mensch wie du\n" +
+            "Ich bin hochintelligent, und doch so doof wie Sauerkraut\n" +
+            "Ich bin schön, ich bin hässlich, ich bin fett und gut gebaut\n" +
+            "Es gibt nichts (nichts)\n" +
+            "Nichts was dich besser macht als mich\n" +
+            "Denn auch du hast deine Fehler, deine Fehler so wie ich\n" +
+            "Und die Fehler sind nix falsches, sie gehören zu dir und mir\n" +
+            "Und wenn du 's nicht auf die Reihe kriegst, kann niemand was dafür",
+        "lang": "de"
     }
 ]
 
