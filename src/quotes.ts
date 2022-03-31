@@ -62,6 +62,34 @@ const quotes = [
             "Und die Fehler sind nix falsches, sie gehören zu dir und mir\n" +
             "Und wenn du 's nicht auf die Reihe kriegst, kann niemand was dafür",
         "lang": "de"
+    },
+    {
+        "trackId": "5Tb6K5YFvUNXREaGbDLn1m",
+        "quote": "It took me years to tell my mother, I expected the worst\n" +
+            "I gathered all the courage in the world\n" +
+            "She said, \"I love you no matter what\n" +
+            "I just want you to be happy and always be who you are\"\n" +
+            "She wrapped her arms around me\n" +
+            "Said, \"Don't try to be what you're not\n" +
+            "'Cause I love you no matter what\"\n" +
+            "She loves me no matter what",
+        "lang": "en"
+    },
+    {
+        "trackId": "72ey4Cr2eXXwH9IMlhzuCV",
+        "quote": "Troubled face\n" +
+            "Headphones on\n" +
+            "Forgetting time and place\n" +
+            "All he wanted\n" +
+            "Feeling stuck\n" +
+            "Set him free\n" +
+            "Running out of luck\n" +
+            "On his knees\n" +
+            "First time he kissed a boy\n" +
+            "He had never, never known\n" +
+            "Cover up is what they told\n" +
+            "Feel so cold",
+        "lang": "en"
     }
 ]
 
