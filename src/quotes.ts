@@ -90,6 +90,25 @@ const quotes = [
             "Cover up is what they told\n" +
             "Feel so cold",
         "lang": "en"
+    },
+    {
+        "trackId": "2Em3KYYLyG4f4JHmV7bs1k",
+        "quote": "They say it's a matter of time\n" +
+            "A thousand days and the sun won't shine\n" +
+            "Before I come back to you\n" +
+            "And I'm happy, nothing's going to stop me\n" +
+            "I'm making my way home, I'm making my way\n" +
+            "For your love, I will go far\n" +
+            "I wanna be wherever you are\n" +
+            "I know I'm coming back for you\n" +
+            "Our love is a river long\n" +
+            "The best right in a million wrongs\n" +
+            "I know I'm coming back to you\n" +
+            "And I'm happy, nothing's going to stop me\n" +
+            "I'm making my way home, I'm making my way\n" +
+            "I go solo, oh, I go solo\n" +
+            "I'm making my way home, I'm making my way",
+        "lang": "en"
     }
 ]
 
