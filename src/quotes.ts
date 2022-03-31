@@ -109,6 +109,22 @@ const quotes = [
             "I go solo, oh, I go solo\n" +
             "I'm making my way home, I'm making my way",
         "lang": "en"
+    },
+    {
+        "trackId": "3XpEKPj7KZt0yYWd7PQf5d",
+        "quote": "Ich bin ein bisschen kompliziert\n" +
+            "Ich hab' nie so richtig funktioniert\n" +
+            "Ich bin defekt, so oft mit Menschen kollidiert\n" +
+            "Und im Endeffekt ist alles ständig eskaliert\n" +
+            "Ich sage dauernd dumme Sachen, aber halte mich für schlau\n" +
+            "Ich will, dass alle klatschen, ich bin süchtig nach Applaus\n" +
+            "Ich bin zu laut, ich bin ein trauriger Clown\n" +
+            "Heute lachen sie mit mir, morgen lachen sie mich aus\n" +
+            "Ich kann kaum laufen, aber sieh mal, wie ich tanz'\n" +
+            "Unsicherheit überspielt mit Arroganz\n" +
+            "Ich hab' es denen, die mich mögen, niemals einfach gemacht\n" +
+            "Dinge einfach gemacht, die man einfach nicht macht",
+        "lang": "de"
     }
 ]
 
