@@ -125,6 +125,27 @@ const quotes = [
             "Ich hab' es denen, die mich mögen, niemals einfach gemacht\n" +
             "Dinge einfach gemacht, die man einfach nicht macht",
         "lang": "de"
+    },
+    {
+        "trackId": "4zpZ0saTZ8f3GLiJPO7DG7",
+        "quote": "Weiche Strafen für gewaltbereite Ausländer, No-Go\n" +
+            "Nein sie sind keine Nazis, auch sie trinken Kaffee to go\n" +
+            "Auch sie waren schon im Urlaub, wo's Schwarze gab\n" +
+            "Und am Vatertag lief sogar Roberto Blanco\n" +
+            "Der ein wunderbarer Nachbar war, wo ist das Problem?\n" +
+            "Kinderschänder müssen sterben, voll okay\n" +
+            "\"Böhse Onkelz\" auf der Heckscheibe stehen\n" +
+            "Mit Deutschlandfahne schwenkend durch die Straße gehen\n" +
+            "Alles nur gut gemeint aus Angst um ihre Blutsbrüder\n" +
+            "Sie sind das Volk, alles nur besorgte Wutbürger\n" +
+            "Stammtischmodus, jetzt wird laut diskutiert\n" +
+            "Schwarz-Rot-Grün, alles wird grau meliert\n" +
+            "Was, was homophob? (Nein, nein, nein, nein, nein)\n" +
+            "Sie sind da für kranke Menschen\n" +
+            "Auch Schwule kann man heilen\n" +
+            "Eine Hand wäscht die andere rein\n" +
+            "Brownies backen für die Hochzeit, Schokoküsse teilen",
+        "lang": "de"
     }
 ]
 
