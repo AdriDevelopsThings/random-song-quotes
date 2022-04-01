@@ -146,6 +146,19 @@ const quotes = [
             "Eine Hand wäscht die andere rein\n" +
             "Brownies backen für die Hochzeit, Schokoküsse teilen",
         "lang": "de"
+    },
+    {
+        "trackId": "2FQRZLR31e3423Nmrgv0Pv",
+        "quote": "Und wär' mein Großvater nicht seit fünfzehn Jahren tot\n" +
+            "Würde er jetzt sagen: „Mensch, Kinder, wie die Zeit vergeht\n" +
+            "Wenn du denkst, dass es immer irgendwie im Leben weitergeht\n" +
+            "Holt dich Krebs straight back in die Realität\"\n" +
+            "Geile Themen für Songs in diesen Zeiten\n" +
+            "Aber „Glaub an dich, geh deinen Weg\"\n" +
+            "Schaff' ich einfach nicht zu schreiben\n" +
+            "Tut mir leid, keine Sätze, die dich aufmuntern zum Schluss\n" +
+            "Auch der letzte Track zieht ein' noch runter in den Schmutz",
+        "lang": "de"
     }
 ]
 
