@@ -159,6 +159,32 @@ const quotes = [
             "Tut mir leid, keine Sätze, die dich aufmuntern zum Schluss\n" +
             "Auch der letzte Track zieht ein' noch runter in den Schmutz",
         "lang": "de"
+    },
+    {
+        "trackId": "4hNElaXvrD1JRzVDrh70yo",
+        "quote": "„Kein Verein will den Rummel, kein Team den Alarm\n" +
+            "Und der Vertrag, den ich hab', geht so schnell wie er kam\n" +
+            "Dass kann keiner absehen, wenn der Sturm losbricht\n" +
+            "Und der Sturm wird kommen, ob man will oder nicht“\n" +
+            "„Du bist dann der Erste, der Homo, der Freak\n" +
+            "Es gibt dann keinen, der in dir nur noch den Fußballer sieht\n" +
+            "Aber ja, es wird besser und der Tag ist in Sicht\n" +
+            "Einer wird es schaffen, aber ich bin es nicht“\n" +
+            "Es ist deine Entscheidung, ganz egal wer was sagt\n" +
+            "Beim Abschied geflüstert „With hope in your heart“\n" +
+            "Noch Einigkeit erzielt, dass der Tag kommen wird\n" +
+            "Und das nächste Heimspiel wohl gewonnen wird\n" +
+            "Auf dem Nachhauseweg, dieser eine Gedanke\n" +
+            "Und fasst schon ein Lächeln\n" +
+            "All ihr homophoben Vollidioten, all ihr dummen Hater\n" +
+            "All ihr Forums-Vollschreibeer, all ihr Schreibtischtäter\n" +
+            "All ihr miesen Kleingeister mit Wachstumsschmerzen\n" +
+            "All ihr Bibel-Zitierer mit euer'm Hass im Herzen\n" +
+            "All ihr Funktionäre mit dem gemeinsamen Nenner\n" +
+            "All ihr harten Herdentiere, all ihr echten Männer\n" +
+            "Kommt zusammen und bildet eine Front\n" +
+            "Und dann seht zu was kommt",
+        "lang": "de"
     }
 ]
 
