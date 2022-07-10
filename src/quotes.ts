@@ -185,6 +185,24 @@ const quotes = [
             "Kommt zusammen und bildet eine Front\n" +
             "Und dann seht zu was kommt",
         "lang": "de"
+    },
+    {
+        "trackId": "6fGusRUxRBoioIKmD0MGsY",
+        "quote": "Am meisten lieben wir die Dinge\n" +
+            "Die wir nicht haben können\n" +
+            "Wir sollten lernen zu verzichten\n" +
+            "Doch wir kriegen es nicht hin\n" +
+            "Wir rufen Lebewohl\n" +
+            "Winken uns noch einmal zu\n" +
+            "Dann drehen wir uns um\n" +
+            "Und laufen dabei los\n" +
+            "Vielen Dank für alles was mal war\n" +
+            "Für jeden guten Tag\n" +
+            "Nun sage mir wie war dein Leben ohne mich\n" +
+            "Vielen Dank für alles was mal war\n" +
+            "Falls du's vergessen hast, das ist nicht schlimm\n" +
+            "Ich erinner' mich für dich",
+        "lang": "de"
     }
 ]
 
