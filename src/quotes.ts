@@ -203,6 +203,61 @@ const quotes = [
             "Falls du's vergessen hast, das ist nicht schlimm\n" +
             "Ich erinner' mich für dich",
         "lang": "de"
+    },
+    {
+        "trackId": "2gQPv5jvVPqU2a9HhMNO1v",
+        "lang": "en",
+        "quote": "I fell into your river\n" +
+            "That's where you told me lies\n" +
+            "You said that I'd feel better\n" +
+            "But this is where good guys die\n" +
+            "You took my pride away, but\n" +
+            "You cannot take my life\n" +
+            "I'll find another way\n" +
+            "I'll wonder if you're takin' my life\n" +
+            "Don't you see how I...\n" +
+            "I'm better off all by myself\n" +
+            "Though I'm feeling kinda empty without somebody else\n" +
+            "Oh, I hear you crying out for help\n" +
+            "But you never showed for me when I was ringing your cellphone\n" +
+            "Oh, you don't know how it feels to be alone\n" +
+            "Baby, oh, I'll make you know, I'll make you know, oh"
+    },
+    {
+        "trackId": "5hpviVYmFjnRctyAdy2bBH",
+        "lang": "de",
+        "quote": "Ich saug dich auf, du mich aus.\n" +
+            "Du lässt mich fallen, ich heb' dich auf.\n" +
+            "Du mich auch.\n" +
+            "Ich wart' auf dich. Ich dreh am Rad für dich.\n" +
+            "Ratschläge bring' nichts, bring' nichts.\n" +
+            "Bin niemals weg.\n" +
+            "Ich lauf dir hinterher.\n" +
+            "Du sagst kein Wort doch viel viel viel mehr\n" +
+            "Du sagst kein Wort doch viel viel viel mehr\n" +
+            "Du sagst kein Wort doch viel viel viel mehr\n" +
+            "Ich verschwende mich in dir. Verliere mich, vergesse mich.\n" +
+            "Für dich tanz ich auf Knien.\n" +
+            "Ich hab's so gewollt und so habe ich's verdient"
+    },
+    {
+        "trackId": "3di5hcvxxciiqwMH1jarhY",
+        "lang": "en",
+        "quote": "My hands, they're strong\n" +
+            "But my knees were far too weak\n" +
+            "To stand in your arms\n" +
+            "Without falling to your feet\n" +
+            "But there's a side to you\n" +
+            "That I never knew, never knew\n" +
+            "All the things you'd say\n" +
+            "They were never true, never true\n" +
+            "And the games you play\n" +
+            "You would always win, always win\n" +
+            "But I set fire to the rain\n" +
+            "Watched it pour as I touched your face\n" +
+            "Well, it burned while I cried\n" +
+            "'Cause I heard it screaming out your name\n" +
+            "Your name"
     }
 ]
 
