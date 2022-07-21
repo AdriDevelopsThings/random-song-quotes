@@ -258,6 +258,31 @@ const quotes = [
             "Well, it burned while I cried\n" +
             "'Cause I heard it screaming out your name\n" +
             "Your name"
+    },
+    {
+        "trackId": "5upH3KljxCFywL8fR0Jfl5",
+        "lang": "de",
+        "quote": "Du, du, du, du, du\n" +
+            "Du rennst einfach weg\n" +
+            "Vor allen Problemen\n" +
+            "Bis sie dich einholen\n" +
+            "Du, du, du, du, du\n" +
+            "Du rennst einfach weg\n" +
+            "Vor allen Problemen\n" +
+            "Bis sie dich einholen\n" +
+            "Bis sie dich Kielholen\n" +
+            "Komm raus aus dem Wasser\n" +
+            "Lauf wieder los\n" +
+            "Kein Ziel, keine Zukunft\n" +
+            "Mach einfach los, los, los\n" +
+            "Nie easymobisi\n" +
+            "Nie alles zu groß\n" +
+            "Kein Ziel, keine Zukunft\n" +
+            "Lass einfach los, los, los\n" +
+            "Es war nie alles gut\n" +
+            "Es ist nicht alles kaputt\n" +
+            "Keiner kappt deine Hoffnung\n" +
+            "Ganz egal wo, Hauptsache fort"
     }
 ]
 
