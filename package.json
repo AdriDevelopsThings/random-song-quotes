@@ -43,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@types/ackee-tracker": "^5.0.2",
     "@types/styled-components": "^5.1.24"
   }
